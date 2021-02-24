@@ -7,6 +7,8 @@ Simple attempt to model an anagram solver for WS
 from collections import Counter
 import sys
 
+FILENAME = 'valid_words.txt'
+
 def create_dictionary(allow_3_letters=True):
     """Read from words.txt and create a dictionary."""
     if allow_3_letters:
@@ -14,7 +16,7 @@ def create_dictionary(allow_3_letters=True):
     else:
         min_letters = 4
 
-    with open('words.txt') as file_obj:
+    with open(FILENAME) as file_obj:
         dic = file_obj.read()
 
     dic = [x.lower() for x in dic.split('\n') if len(x)>=min_letters]
