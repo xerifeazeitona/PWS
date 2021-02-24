@@ -15469,7 +15469,6 @@ cedulas
 cedule
 ceduous
 cee
-cees
 ceiba
 ceibas
 ceibo
@@ -15637,15 +15636,12 @@ cerci
 cercis
 cercle
 cercus
-cere
 cereal
 cereals
 cerebra
 cerebri
 cered
 cereous
-cerer
-ceres
 ceresin
 cereus
 cerevis
@@ -15702,8 +15698,6 @@ certosa
 certose
 cerule
 cerumen
-ceruse
-ceruses
 cervid
 cervine
 cervix
@@ -15744,7 +15738,6 @@ cesura
 cesurae
 cesural
 cesuras
-cesure
 cetacea
 cetane
 cetanes
@@ -20268,7 +20261,6 @@ credit
 credits
 credo
 credos
-cree
 creed
 creedal
 creeded
@@ -20288,7 +20280,6 @@ creeper
 creepy
 creepie
 creeps
-crees
 creese
 creeses
 creesh
@@ -20745,7 +20736,6 @@ crus
 crusade
 crusado
 crusca
-cruse
 cruses
 cruset
 crusets
@@ -21246,7 +21236,6 @@ curns
 curpel
 curpin
 curple
-curr
 currach
 currack
 curragh
@@ -21264,7 +21253,6 @@ curries
 curring
 currish
 currock
-currs
 curs
 cursa
 cursal
@@ -26627,7 +26615,6 @@ ecphory
 ecphova
 ecrase
 ecru
-ecrus
 ecstasy
 ectad
 ectal
@@ -26647,12 +26634,10 @@ ectopy
 ectopia
 ectopic
 ectozoa
-ecu
 ecuador
 ecuelle
 ecumene
 ecurie
-ecus
 eczema
 eczemas
 edacity
@@ -28580,7 +28565,6 @@ erenow
 erepsin
 erept
 ereptic
-erer
 erethic
 erf
 erg
@@ -28697,14 +28681,12 @@ errsyn
 ers
 ersar
 ersatz
-erse
 erses
 ersh
 erst
 erth
 erthen
 erthly
-eruc
 eruca
 erucic
 erucin
@@ -29075,7 +29057,6 @@ eucone
 euconic
 eucosia
 eucrasy
-eucre
 eucrite
 eucti
 euda
@@ -29132,7 +29113,6 @@ eupneas
 eupneic
 eupnoea
 eurasia
-eure
 eureka
 euryale
 eurymus
@@ -69267,10 +69247,8 @@ recueil
 recule
 recumb
 recur
-recure
 recurl
 recurs
-recurse
 recurve
 recusal
 recuse
@@ -69497,7 +69475,6 @@ reeper
 reequip
 reerect
 reerupt
-rees
 reese
 reeshie
 reeshle
@@ -70573,7 +70550,6 @@ restudy
 restuff
 restung
 resuck
-resue
 resuing
 resuit
 result
@@ -72374,8 +72350,6 @@ ruelike
 ruelle
 ruellia
 ruen
-ruer
-ruers
 rues
 ruesome
 ruewort
@@ -74605,7 +74579,6 @@ scupper
 scuppet
 scuppit
 scups
-scur
 scurdy
 scurf
 scurfer
@@ -74791,7 +74764,6 @@ secours
 secpar
 secpars
 secque
-secre
 secrecy
 secret
 secreta
@@ -75358,7 +75330,6 @@ serener
 serenes
 sereno
 serenoa
-serer
 seres
 serest
 serf
@@ -82040,8 +82011,6 @@ sucks
 suclat
 sucrase
 sucrate
-sucre
-sucres
 sucrier
 sucrose
 suction
@@ -82092,8 +82061,6 @@ sueding
 suegee
 suey
 suent
-suer
-suerre
 suers
 suerte
 sues
@@ -91324,7 +91291,6 @@ useably
 used
 usedly
 usednt
-usee
 useful
 usehold
 useless
