@@ -7,8 +7,12 @@ Simple attempt to model an anagram solver for WS
 from collections import Counter
 import sys
 
-def create_dictionary(min_letters=3):
+def create_dictionary(allow_3_letters=True):
     """Read from words.txt and create a dictionary."""
+    if allow_3_letters:
+        min_letters = 3
+    else:
+        min_letters = 4
 
     with open('words.txt') as file_obj:
         dic = file_obj.read()
@@ -34,10 +38,16 @@ def return_anagrams(dictionary, letters: str) -> list:
 
 if __name__ == "__main__":
     try:
-        dic = create_dictionary(int(sys.argv[2]))
+        allow_3 = str(sys.argv[2]).lower() == 'y'
     except IndexError:
-        dic = create_dictionary()
-    test_anagrams = return_anagrams(dic, sys.argv[1])
-    for word in test_anagrams:
-        print(word.upper())
-    print(f"Number of anagrams: {len(test_anagrams)}")
+        allow_3 = False
+
+    dic = create_dictionary(allow_3)
+    try:
+        test_anagrams = return_anagrams(dic, sys.argv[1])
+    except IndexError:
+        print("Where my letters at?")
+    else:
+        for word in test_anagrams:
+            print(word.upper())
+        print(f"Number of anagrams: {len(test_anagrams)}")
