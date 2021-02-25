@@ -1312,7 +1312,6 @@ aeoline
 aeolis
 aeolism
 aeolist
-aeolus
 aeon
 aeonial
 aeonian
@@ -1928,7 +1927,6 @@ aimak
 aimara
 aymara
 aymaran
-ayme
 aimed
 aimee
 aimer
@@ -2371,7 +2369,6 @@ aleger
 alehoof
 aleyard
 aleikum
-alem
 alemana
 alembic
 alemite
@@ -2738,7 +2735,6 @@ almaine
 alman
 almanac
 almas
-alme
 almeh
 almehs
 almemar
@@ -2836,7 +2832,6 @@ alopeke
 alophas
 alopias
 alosa
-alose
 aloud
 alout
 alow
@@ -3140,7 +3135,6 @@ ameen
 ameer
 ameers
 ameiva
-amel
 ameland
 amelet
 amelia
@@ -4223,7 +4217,6 @@ aouad
 aouads
 aoudad
 aoudads
-aoul
 apa
 apace
 apache
@@ -6158,7 +6151,6 @@ aulic
 aulical
 aullay
 auloi
-aulos
 aulu
 aumaga
 aumail
@@ -6668,13 +6660,10 @@ azines
 aziola
 azlon
 azlons
-azo
 azoch
 azofy
 azofier
 azoic
-azole
-azoles
 azolla
 azon
 azonal
@@ -23053,7 +23042,6 @@ dereign
 dereism
 derek
 derere
-derf
 derfly
 derham
 deric
@@ -23087,7 +23075,6 @@ dernful
 dernier
 derning
 dernly
-dero
 derobe
 derog
 derout
@@ -25595,7 +25582,6 @@ drywall
 drizzle
 drizzly
 droddum
-drof
 droger
 drogh
 drogher
@@ -27217,8 +27203,6 @@ elops
 elrage
 elric
 elritch
-els
-elsa
 else
 elsehow
 elses
@@ -27954,9 +27938,7 @@ enols
 enomoty
 enopla
 enoplan
-enorm
 enorn
-enos
 enosis
 enosist
 enough
@@ -28215,7 +28197,6 @@ eonism
 eonisms
 eons
 eophyte
-eos
 eosate
 eoside
 eosin
@@ -28550,7 +28531,6 @@ ernes
 ernesse
 ernest
 ernie
-erns
 ernst
 erode
 eroded
@@ -28593,7 +28573,6 @@ error
 errors
 errs
 errsyn
-ers
 ersar
 ersatz
 erses
@@ -29041,7 +29020,6 @@ eurus
 euscaro
 euskara
 euskera
-eusol
 eustace
 eustacy
 eustele
@@ -30454,7 +30432,6 @@ fensive
 fenster
 fent
 fenter
-feod
 feodal
 feodary
 feods
@@ -30475,7 +30452,6 @@ ferally
 ferash
 ferbam
 ferbams
-ferd
 ferdiad
 ferdwit
 fere
@@ -31950,7 +31926,6 @@ fod
 fodda
 fodder
 fodders
-foder
 fodge
 fodgel
 fodient
@@ -32738,10 +32713,6 @@ frecken
 frecket
 freckle
 freckly
-fred
-freddy
-freddie
-freddo
 free
 freebee
 freeby
@@ -32960,7 +32931,6 @@ fro
 frock
 frocked
 frocks
-froe
 froeman
 froes
 frog
@@ -41123,7 +41093,6 @@ iambist
 iambize
 iambs
 iambus
-yamel
 yamen
 yamens
 yameo
@@ -47773,7 +47742,6 @@ lamed
 lamedh
 lamedhs
 lameds
-lamel
 lamely
 lamella
 lament
@@ -47953,7 +47921,6 @@ lanzon
 lao
 laocoon
 laodah
-laos
 laotian
 lap
 lapacho
@@ -48103,7 +48070,6 @@ lasagna
 lasagne
 lascar
 lascars
-lase
 lased
 laser
 lasers
@@ -48296,7 +48262,6 @@ laurite
 lauroyl
 laurone
 laurus
-laus
 lauter
 lautite
 lautu
@@ -48387,7 +48352,6 @@ lazars
 lazarus
 laze
 lazed
-lazes
 lazy
 lazybed
 lazied
@@ -48464,7 +48428,6 @@ leaks
 lealand
 leally
 lealty
-leam
 leamer
 lean
 leander
@@ -48495,7 +48458,6 @@ learns
 learnt
 learoyd
 lears
-leas
 lease
 leased
 leaser
@@ -48813,7 +48775,6 @@ lentos
 lentous
 lenvoi
 lenvoy
-leo
 leon
 leonard
 leonato
@@ -48829,7 +48790,6 @@ leonora
 leopard
 leopold
 leora
-leos
 leotard
 lep
 lepa
@@ -49051,7 +49011,6 @@ liaise
 liaised
 liaises
 liaison
-lyam
 liamba
 liana
 lianas
@@ -50745,9 +50704,7 @@ ludibry
 ludlow
 ludo
 ludwig
-lue
 luella
-lues
 luetic
 luetics
 lufbery
@@ -52903,7 +52860,6 @@ meithei
 mekbuda
 mekilta
 mekong
-mela
 melada
 melaena
 melagra
@@ -52948,9 +52904,7 @@ melis
 melisma
 melissa
 melitis
-mell
 mellah
-mellay
 mellate
 melled
 meller
@@ -53055,7 +53009,6 @@ mennon
 mennuet
 menorah
 menow
-mens
 mensa
 mensae
 mensal
@@ -53163,7 +53116,6 @@ merman
 mermen
 mermis
 mermnad
-mero
 merodus
 merop
 merope
@@ -53171,7 +53123,6 @@ meropes
 meropia
 meropic
 merops
-meros
 merozoa
 merry
 merrier
@@ -53226,7 +53177,6 @@ mesked
 meslen
 mesnage
 mesne
-meso
 mesobar
 mesode
 mesodic
@@ -53429,12 +53379,10 @@ mya
 myacea
 miacis
 miae
-myal
 myalgia
 myalgic
 myalia
 myalism
-myall
 miami
 miamia
 mian
@@ -54852,7 +54800,6 @@ moneys
 monel
 moneme
 monepic
-moner
 monera
 moneral
 moneran
@@ -54929,7 +54876,6 @@ monoski
 monotic
 monozoa
 monroe
-mons
 monsia
 monsoni
 monsoon
@@ -55087,7 +55033,6 @@ mopsy
 mopus
 mopuses
 moqui
-mor
 mora
 morabit
 morada
@@ -55178,7 +55123,6 @@ mormon
 mormons
 morn
 mornay
-morne
 morned
 morning
 morns
@@ -55219,9 +55163,7 @@ morro
 morros
 morrow
 morrows
-mors
 morsal
-morse
 morsel
 morsels
 morsing
@@ -55250,7 +55192,6 @@ morus
 morvin
 morw
 morwong
-mos
 mosaic
 mosaics
 mosaism
@@ -55259,7 +55200,6 @@ mosan
 moschi
 moschus
 moscow
-mose
 mosey
 moseyed
 moseys
@@ -55501,7 +55441,6 @@ mpondo
 mpret
 mrem
 mridang
-mrs
 mru
 msec
 msg
@@ -56802,7 +56741,6 @@ nemesia
 nemesic
 nemesis
 nemoral
-nemos
 nempne
 nenes
 nenta
@@ -57519,7 +57457,6 @@ noel
 noels
 noemi
 noerror
-noes
 noesis
 noetian
 noetic
@@ -57592,7 +57529,6 @@ nomas
 nombles
 nombril
 nomen
-nomes
 nomeus
 nomial
 nomic
@@ -57607,7 +57543,6 @@ nomisms
 nomnem
 nomoi
 nomos
-noms
 nonacid
 nonage
 nonages
@@ -57749,7 +57684,6 @@ norard
 norate
 norbert
 nordic
-nore
 noreast
 norelin
 norfolk
@@ -57781,7 +57715,6 @@ norn
 norna
 norry
 norroy
-norse
 norsel
 norsk
 north
@@ -57791,7 +57724,6 @@ norths
 norway
 norward
 norwest
-nos
 nosairi
 nose
 nosean
@@ -57800,7 +57732,6 @@ nosed
 nosegay
 nosey
 nosema
-noser
 noses
 nosh
 noshed
@@ -58631,9 +58562,7 @@ oenolic
 oenolin
 oenomel
 oenone
-oer
 oersted
-oes
 oesogi
 oestrid
 oestrin
@@ -58643,7 +58572,6 @@ oeuvre
 oeuvres
 ofay
 ofays
-ofer
 off
 offal
 offals
@@ -58855,7 +58783,6 @@ okrug
 okruzi
 okta
 okuari
-ola
 olacad
 olaf
 olam
@@ -58878,8 +58805,6 @@ oldness
 olds
 oldster
 oldwife
-ole
-olea
 oleana
 oleary
 olearia
@@ -58906,7 +58831,6 @@ oleose
 oleous
 olepy
 oleron
-oles
 oleum
 oleums
 olfact
@@ -58993,8 +58917,6 @@ omens
 omenta
 omental
 omentum
-omer
-omers
 omicron
 omikron
 omina
@@ -59010,7 +58932,6 @@ omlah
 ommatea
 ommiad
 omneity
-omnes
 omni
 omniana
 omnibus
@@ -59021,7 +58942,6 @@ omnium
 omphacy
 omphali
 omrah
-oms
 onager
 onagers
 onaggri
@@ -59059,7 +58979,6 @@ oneiric
 oneism
 onement
 oneness
-oner
 onerary
 onerate
 onery
@@ -59112,7 +59031,6 @@ ono
 onoclea
 ononis
 onrush
-ons
 onset
 onsets
 onshore
@@ -59488,7 +59406,6 @@ oread
 oreads
 oreas
 orectic
-ored
 oregano
 oregon
 oregoni
@@ -59508,8 +59425,6 @@ oreweed
 orewood
 orexin
 orexis
-orf
-orfe
 orfgild
 orfray
 orfrays
@@ -59601,7 +59516,6 @@ orna
 ornary
 ornate
 ornery
-ornes
 ornify
 ornis
 ornith
@@ -59698,8 +59612,6 @@ oscular
 oscule
 oscules
 osculum
-ose
-osela
 osella
 oselle
 oshac
@@ -59916,8 +59828,6 @@ ours
 oursel
 ourself
 oursels
-ousel
-ousels
 ousia
 oust
 ousted
@@ -60321,7 +60231,6 @@ ouverte
 ouvrage
 ouvre
 ouvrier
-ouze
 ouzel
 ouzels
 ouzo
@@ -69842,7 +69751,6 @@ rennet
 rennets
 rennin
 rennins
-reno
 renoir
 renomee
 renomme
@@ -70061,7 +69969,6 @@ rerow
 rerub
 rerun
 reruns
-res
 resaca
 resack
 resay
@@ -71253,7 +71160,6 @@ rizzer
 rizzle
 rizzom
 rld
-rms
 rnd
 roach
 roached
@@ -71360,7 +71266,6 @@ rococos
 rocolo
 rocta
 rod
-rodd
 rodded
 rodden
 rodder
@@ -71392,7 +71297,6 @@ rodster
 rodwood
 roe
 roebuck
-roed
 roelike
 roemer
 roemers
@@ -71475,7 +71379,6 @@ rolltop
 rollway
 roloway
 rolpens
-rom
 romaean
 romaic
 romaika
@@ -71500,7 +71403,6 @@ romanza
 romaunt
 romble
 rombos
-rome
 romeine
 romeite
 romeo
@@ -71523,9 +71425,7 @@ romping
 rompish
 romps
 rompu
-roms
 romulus
-ron
 ronald
 roncet
 roncho
@@ -71541,7 +71441,6 @@ rondle
 rondo
 rondos
 rondure
-rone
 rong
 ronga
 rongeur
@@ -72855,7 +72754,6 @@ salts
 saltus
 salud
 saluda
-salue
 salugi
 saluki
 salukis
@@ -73384,7 +73282,6 @@ saughen
 saughy
 saughs
 saught
-saul
 sauld
 saulge
 saulie
@@ -74867,7 +74764,6 @@ sennite
 sennits
 senones
 senopia
-senor
 senora
 senoras
 senores
@@ -74907,7 +74803,6 @@ senvy
 senza
 seora
 seorita
-seoul
 sep
 sepad
 sepal
@@ -74984,7 +74879,6 @@ sequin
 sequins
 sequoia
 seqwl
-ser
 sera
 serab
 serac
@@ -75076,11 +74970,9 @@ seriola
 serioso
 serious
 serment
-sermo
 sermon
 sermons
 serolin
-seron
 seroon
 seroot
 seropus
@@ -77538,7 +77430,6 @@ slacks
 slad
 sladang
 slade
-slae
 slag
 slagged
 slagger
@@ -77912,7 +77803,6 @@ sludged
 sludger
 sludges
 sludgy
-slue
 slued
 sluer
 slues
@@ -78143,7 +78033,6 @@ smooth
 smoothy
 smooths
 smopple
-smore
 smote
 smother
 smotter
@@ -78600,7 +78489,6 @@ sodomy
 sodomic
 sods
 sodwork
-soe
 soekoe
 soever
 sofa
@@ -78676,7 +78564,6 @@ sokoki
 sokotri
 sokulk
 sol
-sola
 solace
 solaced
 solacer
@@ -78712,7 +78599,6 @@ soldi
 soldier
 soldo
 sole
-solea
 soleas
 soled
 soleil
@@ -78822,8 +78708,6 @@ somitic
 somler
 somma
 sommite
-somne
-somner
 somnial
 somnify
 somnus
@@ -78849,7 +78733,6 @@ sondeli
 sonder
 sonders
 sondes
-sone
 soneri
 sones
 song
@@ -79026,7 +78909,6 @@ soricid
 sorite
 sorites
 soritic
-sorn
 sornare
 sornari
 sorned
@@ -79144,7 +79026,6 @@ souls
 soulter
 soultre
 soulx
-soulz
 soum
 soumak
 sound
@@ -81743,7 +81624,6 @@ sueve
 suevi
 suevian
 suevic
-suez
 sufeism
 suff
 suffari
@@ -81819,7 +81699,6 @@ sukkah
 sukkahs
 sukkoth
 suku
-sula
 sulaba
 sulafat
 sulaib
@@ -81831,7 +81710,6 @@ sulcus
 suld
 suldan
 suldans
-sulea
 sulfa
 sulfas
 sulfate
@@ -95692,7 +95570,6 @@ zealful
 zealot
 zealots
 zealous
-zeals
 zeatin
 zeatins
 zebec
@@ -95798,7 +95675,6 @@ zetetic
 zeugite
 zeugma
 zeugmas
-zeus
 zeuxian
 zeuxite
 zeuzera
@@ -96007,10 +95883,6 @@ zoccolo
 zod
 zodiac
 zodiacs
-zoea
-zoeae
-zoeal
-zoeas
 zoeform
 zoetic
 zoftig
