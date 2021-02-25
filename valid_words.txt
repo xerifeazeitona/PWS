@@ -26775,13 +26775,11 @@ eyn
 eyne
 einkorn
 eyoty
-eir
 eyra
 eirack
 eyrant
 eyrar
 eyras
-eire
 eyren
 eirene
 eirenic
@@ -26937,7 +26935,6 @@ elepaio
 elephas
 eleuin
 eleut
-elev
 elevate
 elevato
 eleve
@@ -26960,7 +26957,6 @@ elfship
 elfwife
 elfwort
 elhi
-eli
 elia
 elian
 elianic
@@ -27103,8 +27099,6 @@ eluvies
 eluvium
 eluxate
 elvan
-elve
-elver
 elvers
 elves
 elvet
@@ -28354,9 +28348,6 @@ ericas
 ericius
 erick
 ericoid
-erie
-erik
-erika
 erikite
 erineum
 eringo
@@ -28456,8 +28447,6 @@ erump
 erupt
 erupted
 erupts
-ervil
-ervils
 ervum
 erwin
 erwinia
@@ -41557,7 +41546,6 @@ ikons
 ikra
 ila
 ilama
-ile
 ilea
 ileac
 ileal
@@ -43444,7 +43432,6 @@ yuzlik
 yuzluk
 iva
 ivan
-ive
 ivy
 ivied
 ivies
@@ -48680,7 +48667,6 @@ leukon
 leukons
 leuma
 leung
-lev
 leva
 levade
 levana
@@ -48690,7 +48676,6 @@ levant
 levanto
 levants
 levator
-leve
 leveche
 levee
 leveed
@@ -48709,11 +48694,8 @@ leveret
 levers
 levesel
 levet
-levi
 levy
 levied
-levier
-leviers
 levies
 levying
 levyist
@@ -48721,7 +48703,6 @@ levin
 levyne
 leviner
 levins
-levir
 levis
 levite
 leviter
@@ -48947,8 +48928,6 @@ lieu
 lieue
 lieus
 lieut
-lieve
-liever
 lievest
 life
 lifeday
@@ -49561,7 +49540,6 @@ lituus
 litvak
 litz
 liukiu
-liv
 livable
 livably
 live
@@ -49592,7 +49570,6 @@ living
 livings
 livish
 livor
-livre
 livres
 liwan
 lixive
@@ -54898,7 +54875,6 @@ morsel
 morsels
 morsing
 morsure
-mort
 mortal
 mortals
 mortar
@@ -54975,7 +54951,6 @@ moted
 motey
 motel
 motels
-moter
 motes
 motet
 motets
@@ -59219,8 +59194,6 @@ orlop
 orlops
 orlos
 ormazd
-ormer
-ormers
 ormolu
 ormolus
 ormond
@@ -69156,8 +69129,6 @@ reist
 reister
 reitbok
 reiter
-reive
-reived
 reiver
 reivers
 reives
@@ -70069,10 +70040,8 @@ revalue
 revamp
 revamps
 revary
-reve
 reveal
 reveals
-reveil
 revel
 reveled
 reveler
@@ -70106,7 +70075,6 @@ revet
 revete
 reveto
 revets
-revie
 review
 reviews
 revigor
@@ -70803,7 +70771,6 @@ ritzy
 ritzier
 ritzily
 ryukyu
-riv
 riva
 rivage
 rivages
@@ -70812,7 +70779,6 @@ rivaled
 rivalry
 rivals
 rived
-rivel
 riveled
 rivell
 riven
@@ -71252,7 +71218,6 @@ rorid
 roripa
 rorippa
 rorqual
-rort
 rorty
 rosa
 rosabel
@@ -71346,7 +71311,6 @@ rotche
 rotches
 rote
 rotella
-roter
 rotes
 rotge
 rotgut
@@ -83842,8 +83806,6 @@ termino
 termite
 termly
 termon
-termor
-termors
 terms
 tern
 terna
@@ -83863,7 +83825,6 @@ terns
 terpane
 terpin
 terpine
-terr
 terra
 terraba
 terrace
@@ -90975,7 +90936,6 @@ vegete
 vehicle
 vehme
 vehmic
-vei
 veigle
 veil
 veiled
@@ -91001,7 +90961,6 @@ veinule
 vejoces
 vejovis
 vejoz
-vel
 vela
 velal
 velamen
@@ -91153,7 +91112,6 @@ venusty
 veps
 vepse
 vepsish
-ver
 vera
 veray
 veranda
@@ -91530,7 +91488,6 @@ vijay
 vijao
 viking
 vikings
-vil
 vila
 vilayet
 vild
@@ -91539,7 +91496,6 @@ vile
 vileyns
 vilela
 vilely
-viler
 vilest
 vilhelm
 vili
@@ -91700,7 +91656,6 @@ virile
 virilia
 virion
 virions
-virl
 virled
 virls
 vyrnwy
@@ -91878,8 +91833,6 @@ vizsla
 vizslas
 vizzy
 vlach
-vlei
-vlsi
 vmsize
 voar
 vobis
@@ -92091,7 +92044,6 @@ vox
 vraic
 vrbaite
 vriddhi
-vril
 vrille
 vrilled
 vrocht
