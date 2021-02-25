@@ -474,7 +474,6 @@ acater
 acatery
 acates
 acaudal
-acc
 acca
 accable
 accede
@@ -498,7 +497,6 @@ accloy
 accoast
 accoy
 accoyed
-accoil
 accoll
 accolle
 accompt
@@ -739,7 +737,6 @@ acool
 acop
 acopic
 acopon
-acor
 acorea
 acoria
 acorn
@@ -2298,12 +2295,10 @@ alcyone
 alcippe
 alclad
 alcmene
-alco
 alcoate
 alcogel
 alcohol
 alconde
-alcor
 alcoran
 alcosol
 alcove
@@ -4176,10 +4171,8 @@ anzac
 aob
 aogiri
 aoife
-aoli
 aonach
 aonian
-aor
 aorist
 aorists
 aorta
@@ -4740,8 +4733,6 @@ arcite
 arcked
 arcking
 arclike
-arco
-arcos
 arcose
 arcs
 arcsin
@@ -4951,7 +4942,6 @@ arigue
 ariidae
 arikara
 ariki
-aril
 aryl
 arylate
 ariled
@@ -13579,7 +13569,6 @@ cachou
 cachous
 cachrys
 cachua
-caci
 cacicus
 cacimbo
 cacique
@@ -13753,11 +13742,9 @@ cahow
 cahows
 cahuy
 cahuita
-cai
 cay
 cayapa
 cayapo
-caic
 caickle
 caid
 caids
@@ -13780,7 +13767,6 @@ cains
 cayos
 caique
 caiques
-cair
 cairba
 caird
 cairds
@@ -13789,7 +13775,6 @@ cairn
 cairned
 cairny
 cairns
-cairo
 cays
 caisse
 caisson
@@ -13860,7 +13845,6 @@ calced
 calces
 calceus
 calchas
-calci
 calcic
 calcify
 calcine
@@ -13892,7 +13876,6 @@ calgon
 caliban
 caliber
 calibre
-calic
 calices
 calyces
 caliche
@@ -13983,7 +13966,6 @@ calomba
 calombo
 calomel
 calool
-calor
 calory
 caloric
 calorie
@@ -14673,13 +14655,11 @@ carked
 carking
 carkled
 carks
-carl
 carlage
 carle
 carles
 carless
 carlet
-carli
 carlie
 carlin
 carlina
@@ -14690,7 +14670,6 @@ carlins
 carlish
 carlism
 carlist
-carlo
 carload
 carlock
 carlos
@@ -14726,7 +14705,6 @@ carnify
 carnose
 carnous
 carns
-caro
 caroa
 caroach
 carob
@@ -14740,7 +14718,6 @@ carolan
 carole
 caroled
 caroler
-caroli
 carolin
 carolyn
 carols
@@ -17192,7 +17169,6 @@ cire
 cires
 cyril
 cyrilla
-cirl
 cirque
 cirques
 cirrate
@@ -17381,10 +17357,6 @@ claimed
 claimer
 claims
 claypan
-clair
-clairce
-claire
-claires
 clays
 claith
 clayton
@@ -17431,7 +17403,6 @@ clapt
 claque
 claquer
 claques
-clar
 clara
 clarain
 clare
@@ -17453,9 +17424,6 @@ clarity
 clark
 clarke
 clarkia
-claro
-claroes
-claros
 clarre
 clart
 clarty
@@ -17674,7 +17642,6 @@ clint
 clinty
 clinton
 clints
-clio
 cliona
 clione
 clip
@@ -18438,7 +18405,6 @@ coletit
 coleur
 coleus
 colfox
-coli
 coly
 colias
 colyba
@@ -19223,7 +19189,6 @@ coquina
 coquita
 coquito
 cor
-cora
 corach
 coracii
 coracle
@@ -19299,8 +19264,6 @@ corf
 corge
 corgi
 corgis
-coria
-corial
 coriaus
 corycia
 corydon
@@ -20098,7 +20061,6 @@ crazier
 crazies
 crazily
 crazing
-crcao
 crche
 cre
 crea
@@ -22449,7 +22411,6 @@ defense
 defer
 defers
 defet
-defi
 defy
 defial
 defiant
@@ -22536,7 +22497,6 @@ degras
 degree
 degreed
 degrees
-degu
 degum
 degums
 degust
@@ -22628,7 +22588,6 @@ delator
 delaw
 delawn
 delbert
-dele
 delead
 deleads
 deleble
@@ -23159,7 +23118,6 @@ deuce
 deuced
 deuces
 deucing
-deul
 deunam
 deus
 deusan
@@ -23619,7 +23577,6 @@ dielike
 dyeline
 diener
 dienes
-dier
 dyer
 dieri
 dyers
@@ -25379,7 +25336,6 @@ dreeing
 dreep
 dreepy
 drees
-dreg
 dreggy
 dregs
 drey
@@ -25426,7 +25382,6 @@ dribs
 drycoal
 dridder
 driddle
-drie
 driech
 dried
 driegh
@@ -26717,7 +26672,6 @@ egoists
 egoity
 egoize
 egoizer
-egol
 egomism
 egos
 egotism
@@ -26728,7 +26682,6 @@ egress
 egret
 egrets
 egretta
-egrid
 egriot
 eheu
 ehlite
@@ -27110,7 +27063,6 @@ eloper
 elopers
 elopes
 eloping
-elops
 elrage
 elric
 elritch
@@ -28280,7 +28232,6 @@ epopees
 epopt
 epoptes
 epoptic
-epos
 eposes
 epoxy
 epoxide
@@ -28824,7 +28775,6 @@ ettled
 ettling
 etude
 etudes
-etui
 etuis
 etuve
 etuvee
@@ -28858,8 +28808,6 @@ eudeve
 eudist
 eudora
 euectic
-euge
-eugene
 eugeny
 eugenia
 eugenic
@@ -30412,7 +30360,6 @@ feroher
 feronia
 ferous
 ferox
-ferr
 ferrado
 ferrara
 ferrary
@@ -30564,9 +30511,6 @@ fezzan
 fezzed
 fezzes
 fezzy
-ffa
-fgn
-fgrid
 fhrer
 fiacre
 fiacres
@@ -30661,7 +30605,6 @@ fiddley
 fiddler
 fiddles
 fiddly
-fide
 fideism
 fideist
 fidel
@@ -30674,7 +30617,6 @@ fideos
 fides
 fidessa
 fidfad
-fidge
 fidged
 fidges
 fidget
@@ -30690,7 +30632,6 @@ fidos
 fids
 fiducia
 fie
-fied
 fief
 fiefdom
 fiefs
@@ -32743,7 +32684,6 @@ friezed
 friezer
 friezes
 friezy
-frig
 frigage
 frigate
 frigga
@@ -32872,7 +32812,6 @@ frontis
 fronton
 fronts
 froom
-frore
 froren
 frory
 frosh
@@ -34284,7 +34223,6 @@ gee
 geebong
 geebung
 geechee
-geed
 geegaw
 geegaws
 geeing
@@ -34317,7 +34255,6 @@ geiger
 geikia
 geylies
 gein
-geir
 geira
 geisa
 geyser
@@ -34528,7 +34465,6 @@ geogony
 geoid
 geoidal
 geoids
-geol
 geology
 geom
 geomaly
@@ -34815,10 +34751,8 @@ gidgee
 gidyea
 gidjee
 gids
-gie
 gye
 gieaway
-gied
 gieing
 gien
 gienah
@@ -35073,7 +35007,6 @@ girdled
 girdler
 girdles
 girds
-gire
 gyre
 gyred
 girella
@@ -35320,15 +35253,10 @@ glebes
 gleby
 glebous
 glecoma
-gled
-glede
-gledes
 gledge
 gledy
 gleds
 glee
-gleed
-gleeds
 gleeful
 gleek
 gleeked
@@ -35478,7 +35406,6 @@ glop
 glopnen
 gloppen
 gloppy
-glops
 glor
 glore
 glory
@@ -35488,7 +35415,6 @@ glorias
 gloried
 glories
 glorify
-glos
 gloss
 glossa
 glossae
@@ -35760,7 +35686,6 @@ godwin
 godwit
 godwits
 goeduck
-goel
 goelism
 goemot
 goen
@@ -35809,7 +35734,6 @@ goiters
 goitral
 goitre
 goitres
-gol
 gola
 golach
 goladar
@@ -35836,7 +35760,6 @@ goldurn
 golee
 golem
 golems
-goles
 golet
 golf
 golfdom
@@ -35862,8 +35785,6 @@ goloch
 goloe
 goloka
 golosh
-golp
-golpe
 goma
 gomari
 gomart
@@ -36573,7 +36494,6 @@ grid
 gridded
 gridder
 griddle
-gride
 gryde
 grided
 grides
@@ -37027,12 +36947,10 @@ guck
 gucked
 gucki
 gucks
-gud
 gudame
 guddle
 guddled
 guddler
-gude
 gudes
 gudge
 gudgeon
@@ -37172,7 +37090,6 @@ gulas
 gulash
 gulch
 gulches
-guld
 gulden
 guldens
 gules
@@ -41169,7 +41086,6 @@ ibm
 ibolium
 ibota
 ibsenic
-icaco
 icaria
 icarian
 icarus
@@ -47446,7 +47362,6 @@ layaway
 laibach
 layback
 layboy
-laic
 laical
 laich
 laichs
@@ -47866,7 +47781,6 @@ largy
 largish
 largo
 largos
-lari
 laria
 lariat
 lariats
@@ -48365,7 +48279,6 @@ lectual
 lecture
 lecturn
 led
-lede
 leden
 ledge
 ledged
@@ -48384,8 +48297,6 @@ leech
 leeched
 leecher
 leeches
-leed
-leeds
 leef
 leefang
 leeful
@@ -48449,7 +48360,6 @@ legator
 legatos
 legatus
 legbar
-lege
 legend
 legenda
 legends
@@ -48749,7 +48659,6 @@ lettuce
 letuare
 letup
 letups
-leu
 leuch
 leucic
 leucyl
@@ -48763,7 +48672,6 @@ leucoid
 leucoma
 leucon
 leucous
-leud
 leudes
 leuds
 leuk
@@ -48818,7 +48726,6 @@ levis
 levite
 leviter
 levity
-levo
 levulic
 levulin
 lew
@@ -48929,7 +48836,6 @@ libs
 lyc
 lycaena
 licania
-licca
 lice
 lycea
 lyceal
@@ -49510,7 +49416,6 @@ liquify
 liquor
 liquory
 liquors
-lira
 lyra
 lyraid
 liras
@@ -49807,8 +49712,6 @@ lobuli
 lobulus
 lobus
 lobworm
-loc
-loca
 locable
 local
 locale
@@ -49932,7 +49835,6 @@ logcock
 loge
 logeia
 logeion
-loges
 logeum
 loggat
 loggats
@@ -50005,7 +49907,6 @@ loin
 loyn
 loined
 loins
-loir
 lois
 loiter
 loiters
@@ -50194,8 +50095,6 @@ loq
 loquat
 loquats
 loquent
-lor
-lora
 loral
 loran
 lorans
@@ -50221,10 +50120,7 @@ lorenzo
 lores
 loretin
 lorgnon
-lori
 lory
-loric
-lorica
 loricae
 lorien
 lories
@@ -57981,7 +57877,6 @@ oarfish
 oarhole
 oary
 oarial
-oaric
 oaring
 oaritic
 oaritis
@@ -58636,7 +58531,6 @@ oleates
 olefin
 olefine
 olefins
-oleg
 oleic
 olein
 oleine
@@ -58703,10 +58597,7 @@ olona
 olonets
 olor
 oloroso
-olp
 olpae
-olpe
-olpes
 olson
 oltonde
 oltunna
@@ -59019,7 +58910,6 @@ operla
 operon
 operons
 operose
-opes
 ophelia
 ophian
 ophic
@@ -59407,7 +59297,6 @@ ortol
 ortolan
 ortrud
 orts
-orvet
 orvieto
 orville
 orwell
@@ -62366,7 +62255,6 @@ pereion
 pereira
 perempt
 peres
-perf
 perfay
 perfect
 perfidy
@@ -62528,7 +62416,6 @@ peshwa
 pesky
 peskier
 peskily
-peso
 pesos
 pess
 pessary
@@ -64985,7 +64872,6 @@ porcula
 pore
 pored
 porella
-porer
 pores
 poret
 porett
@@ -65032,7 +64918,6 @@ porosis
 porotic
 porous
 porpita
-porr
 porrect
 porret
 porry
@@ -65520,7 +65405,6 @@ preener
 preens
 prees
 preeze
-pref
 prefab
 prefabs
 preface
@@ -65937,14 +65821,12 @@ proetus
 prof
 proface
 profane
-profer
 profert
 profess
 proffer
 profile
 profit
 profits
-profre
 profs
 profuse
 prog
@@ -66055,7 +65937,6 @@ propupa
 propus
 prorata
 prorate
-prore
 prorean
 prorex
 prorsa
@@ -68808,7 +68689,6 @@ redye
 redyed
 redient
 redyes
-redig
 redying
 reding
 redip
@@ -68991,8 +68871,6 @@ refete
 reffed
 reffelt
 reffing
-reffo
-reffos
 refight
 refile
 refiled
@@ -69051,7 +68929,6 @@ reforge
 reform
 reforms
 refound
-refr
 refract
 refrain
 reframe
@@ -69107,7 +68984,6 @@ regards
 regatta
 regauge
 regave
-regd
 regear
 regears
 regel
@@ -69239,13 +69115,10 @@ rehook
 rehoop
 rehouse
 rehung
-rei
 reice
 reiced
 reich
 reicing
-reid
-reif
 reify
 reified
 reifier
@@ -69685,6 +69558,7 @@ replot
 replow
 replum
 replume
+repo
 repoint
 repoll
 repolon
@@ -69708,7 +69582,6 @@ repower
 repp
 repped
 repps
-repr
 repray
 repress
 repry
@@ -70475,9 +70348,7 @@ rhumbas
 rhumbs
 rhus
 rhuses
-ria
 rya
-rial
 ryal
 rials
 rialty
@@ -71605,7 +71476,6 @@ roven
 rover
 rovers
 roves
-rovet
 rovetto
 roving
 rovings
@@ -74321,7 +74191,6 @@ segment
 segni
 segno
 segnos
-segol
 segou
 segue
 segued
@@ -74621,7 +74490,6 @@ sepals
 separte
 sepawn
 sepd
-sepg
 sephen
 sephira
 sepia
@@ -78626,7 +78494,6 @@ sooting
 sootish
 soots
 sop
-sope
 soph
 sopheme
 sophene
@@ -79512,7 +79379,6 @@ spodes
 spodium
 spoffy
 spoffle
-spogel
 spoil
 spoiled
 spoiler
@@ -79526,7 +79392,6 @@ spoken
 spokes
 spoky
 spoking
-spole
 spolia
 spolium
 spondee
@@ -86105,7 +85970,6 @@ torulin
 torulus
 torus
 toruses
-torve
 torvid
 torvity
 torvous
@@ -87586,7 +87450,6 @@ turgite
 turgoid
 turgor
 turgors
-turi
 turing
 turio
 turion
@@ -90441,7 +90304,6 @@ urine
 urines
 urinose
 urinous
-urite
 urlar
 urled
 urling
@@ -90645,7 +90507,6 @@ uvid
 uviol
 uvitic
 uvito
-uvre
 uvres
 uvrou
 uvula
@@ -91171,7 +91032,6 @@ vellum
 vellumy
 vellums
 vellute
-velo
 veloce
 velour
 velours
@@ -91421,7 +91281,6 @@ vertex
 verty
 vertigo
 verts
-vertu
 vertus
 veruled
 verus
@@ -92049,7 +91908,6 @@ vodums
 vodun
 voe
 voes
-voet
 voeten
 voetian
 voetsak
@@ -92117,7 +91975,6 @@ volente
 volenti
 volery
 voles
-volet
 volga
 volyer
 voling
@@ -92133,8 +91990,6 @@ volt
 volta
 voltage
 voltaic
-volte
-voltes
 volti
 voltize
 volto
