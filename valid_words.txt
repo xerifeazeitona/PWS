@@ -1536,7 +1536,6 @@ agyieus
 agile
 agilely
 agility
-agin
 agynary
 aging
 agings
@@ -1766,7 +1765,6 @@ aigre
 aigret
 aigrets
 ayield
-ayin
 ayins
 ayyubid
 aikane
@@ -3887,7 +3885,6 @@ ants
 antship
 antsy
 antsier
-antum
 antwerp
 antwise
 anubin
@@ -28061,7 +28058,6 @@ fagging
 faggot
 faggoty
 faggots
-fagin
 fagine
 fagins
 fagot
@@ -28082,7 +28078,6 @@ fayal
 fayed
 faience
 fayence
-faying
 faikes
 fail
 failed
@@ -28253,7 +28248,6 @@ fanga
 fangas
 fanged
 fanger
-fangy
 fanging
 fangle
 fangled
@@ -28261,7 +28255,6 @@ fanglet
 fango
 fangot
 fangs
-fany
 fanion
 fanions
 fanit
@@ -38964,7 +38957,6 @@ yaffs
 yager
 yagers
 yagger
-yagi
 yagis
 yagnob
 yagua
@@ -39044,7 +39036,6 @@ yamun
 yamuns
 yanan
 yander
-yang
 yangs
 yangtao
 yangtze
@@ -40305,7 +40296,6 @@ infuse
 infused
 infuser
 infuses
-inga
 ingan
 ingang
 ingangs
@@ -48660,7 +48650,6 @@ maihems
 mayhems
 maiid
 maiidae
-maying
 mayings
 mail
 mailbag
@@ -49054,7 +49043,6 @@ manetti
 manfish
 manfred
 manful
-mang
 manga
 mangaby
 mangal
@@ -49069,7 +49057,6 @@ manger
 mangery
 mangers
 manges
-mangi
 mangy
 mangyan
 mangier
@@ -49105,7 +49092,6 @@ manie
 manyema
 maniere
 manifer
-manify
 manihot
 manikin
 manila
@@ -49776,7 +49762,6 @@ maurice
 maurist
 mauser
 mausole
-maut
 mauther
 mauts
 mauve
@@ -51010,9 +50995,7 @@ minerva
 mines
 minette
 minever
-ming
 minge
-mingy
 mingie
 mingier
 mingle
@@ -52036,7 +52019,6 @@ montia
 montjoy
 monton
 montre
-montu
 monture
 monumbo
 monuron
@@ -52492,8 +52474,6 @@ mousmee
 mousse
 mousses
 moustoc
-mout
-moutan
 mouth
 mouthe
 mouthed
@@ -52871,7 +52851,6 @@ munshi
 munsif
 munsiff
 munster
-munt
 muntin
 munting
 muntins
@@ -53102,7 +53081,6 @@ musting
 mustnt
 musts
 musumee
-muta
 mutable
 mutably
 mutage
@@ -53274,10 +53252,8 @@ naiant
 nayarit
 naias
 naib
-naif
 naifly
 naifs
-naig
 naigie
 naigue
 naik
@@ -54002,7 +53978,6 @@ nextly
 nexum
 nexus
 nexuses
-ngai
 ngaio
 ngapi
 ngoko
@@ -54772,7 +54747,6 @@ notoire
 notour
 notre
 notself
-notum
 notus
 nouche
 nougat
@@ -56875,7 +56849,6 @@ outlord
 outlot
 outlove
 outlung
-outman
 outmans
 outmate
 outmen
@@ -79298,7 +79271,6 @@ taught
 taulch
 tauli
 taulia
-taum
 taunt
 taunted
 taunter
@@ -84006,7 +83978,6 @@ unaloud
 unamend
 unami
 unamiss
-unamo
 unample
 unamply
 unangry
