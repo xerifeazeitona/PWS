@@ -1857,8 +1857,6 @@ airman
 airmark
 airmass
 airmen
-airn
-airns
 airpark
 airplay
 airplot
@@ -4674,7 +4672,6 @@ arised
 arisen
 ariser
 arises
-arish
 arising
 arist
 arista
@@ -4769,7 +4766,6 @@ arnatto
 arnaut
 arnebia
 arnee
-arni
 arnica
 arnicas
 arnold
@@ -4886,7 +4882,6 @@ arsenyl
 arseno
 arses
 arsheen
-arshin
 arshine
 arshins
 arsyl
@@ -5087,7 +5082,6 @@ ashier
 ashiest
 ashine
 ashing
-ashir
 ashiver
 ashkey
 ashkoko
@@ -21352,10 +21346,8 @@ deer
 deerdog
 deerfly
 deerlet
-deers
 deeses
 deesis
-deess
 deevey
 deewan
 deewans
@@ -24158,7 +24150,6 @@ dredges
 dreegh
 dreeing
 dreepy
-drees
 dreggy
 dregs
 dreich
@@ -27056,7 +27047,6 @@ errs
 errsyn
 ersar
 ersatz
-erses
 erthen
 erthly
 eruca
@@ -27180,7 +27170,6 @@ essayer
 essays
 essang
 essart
-essed
 esseda
 essede
 essee
@@ -35915,7 +35904,6 @@ hailse
 haymish
 haymow
 haymows
-hain
 hainai
 hainan
 hainch
@@ -36394,7 +36382,6 @@ harmout
 harms
 harness
 harnpan
-harns
 harold
 haroset
 harp
@@ -36440,7 +36427,6 @@ hartin
 hartite
 hartly
 harts
-harv
 harvard
 harvey
 harvest
@@ -37609,7 +37595,6 @@ hinnied
 hinnies
 hinoid
 hinoki
-hins
 hint
 hinted
 hinter
@@ -37746,7 +37731,6 @@ hirundo
 his
 hish
 hisis
-hisn
 hyson
 hysons
 hispa
@@ -40723,8 +40707,6 @@ invaded
 invader
 invades
 invalid
-invar
-invars
 invect
 inveigh
 inveil
@@ -41001,7 +40983,6 @@ ipseity
 iracund
 irade
 irades
-iran
 irani
 iranian
 iranic
@@ -53272,13 +53253,11 @@ nain
 nainsel
 naipkin
 naique
-nair
 naira
 nairy
 nairobi
 nays
 naysay
-naish
 naiskoi
 naiskos
 naither
@@ -53431,7 +53410,6 @@ narial
 naric
 narica
 narine
-naris
 nark
 narked
 narky
@@ -57623,7 +57601,6 @@ payors
 payout
 pair
 paired
-pairer
 pairial
 pairing
 pairle
@@ -58850,7 +58827,6 @@ peddled
 peddler
 peddles
 pedee
-pedes
 pedeses
 pedesis
 pedetes
@@ -59380,9 +59356,6 @@ persae
 persalt
 persea
 perseid
-perses
-perseus
-persia
 persian
 persic
 persico
@@ -62416,7 +62389,6 @@ presee
 preseen
 present
 preser
-preses
 preset
 presets
 preship
@@ -64613,14 +64585,12 @@ rangle
 rangler
 rangoon
 rangpur
-rani
 ranid
 ranidae
 ranids
 ranina
 raninae
 ranine
-ranis
 ranjit
 rank
 ranked
@@ -64922,14 +64892,12 @@ raver
 ravery
 ravers
 raves
-ravin
 ravine
 ravined
 raviney
 ravines
 raving
 ravings
-ravins
 ravioli
 ravish
 ravison
@@ -65439,7 +65407,6 @@ redeify
 redelay
 redely
 redeny
-redes
 redfin
 redfins
 redfish
@@ -66990,7 +66957,6 @@ rhymy
 rhymic
 rhyming
 rhymist
-rhina
 rhinal
 rhine
 rhynia
@@ -70581,7 +70547,6 @@ sedater
 sedates
 sedent
 seder
-seders
 sedge
 sedged
 sedges
@@ -71061,7 +71026,6 @@ serdabs
 serdar
 sere
 serean
-sered
 sereh
 serein
 sereins
@@ -71072,7 +71036,6 @@ serener
 serenes
 sereno
 serenoa
-seres
 serest
 serf
 serfage
@@ -71421,7 +71384,6 @@ shaykh
 shaikhi
 shaird
 shairds
-shairn
 shairns
 shays
 shaitan
@@ -71542,7 +71504,6 @@ sharers
 shares
 shargar
 sharger
-shari
 sharia
 shariat
 sharif
@@ -71555,7 +71516,6 @@ sharker
 sharki
 sharky
 sharks
-sharn
 sharny
 sharns
 sharon
@@ -71841,7 +71801,6 @@ shimose
 shimper
 shims
 shin
-shina
 shindy
 shindig
 shindys
@@ -71905,7 +71864,6 @@ shirrs
 shirt
 shirty
 shirts
-shirvan
 shish
 shisham
 shishya
@@ -71924,7 +71882,6 @@ shitty
 shittim
 shittle
 shiv
-shiva
 shivah
 shivahs
 shivas
@@ -72772,7 +72729,6 @@ singly
 singpho
 sings
 singult
-sinh
 sinhs
 sinian
 sinic
@@ -75308,7 +75264,6 @@ speeled
 speels
 speen
 speered
-speers
 speight
 speil
 speiled
@@ -75357,7 +75312,6 @@ sperms
 speron
 sperone
 sperple
-sperse
 spet
 spetch
 spete
@@ -75751,7 +75705,6 @@ spreads
 spreagh
 spreath
 spree
-spreed
 sprees
 spreeuw
 spreng
@@ -86433,7 +86386,6 @@ vairagi
 vaire
 vairee
 vairy
-vairs
 vaisya
 vayu
 vaivode
@@ -86563,7 +86515,6 @@ vangloe
 vangs
 vanilla
 vanille
-vanir
 vanish
 vanist
 vanity
