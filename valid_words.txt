@@ -2248,7 +2248,6 @@ alfas
 alferes
 alferez
 alfet
-alfin
 alfiona
 alfione
 alfirk
@@ -12175,8 +12174,6 @@ bugweed
 bugwort
 buhl
 buhls
-buhr
-buhrs
 buy
 buyable
 buyback
@@ -12509,10 +12506,8 @@ burgout
 burgs
 burgul
 burgus
-burh
 burhead
 burhel
-buri
 bury
 burial
 burials
@@ -12605,7 +12600,6 @@ burros
 burrow
 burrows
 burrs
-burs
 bursa
 bursae
 bursal
@@ -12657,7 +12651,6 @@ bushers
 bushes
 bushet
 bushful
-bushi
 bushy
 bushido
 bushie
@@ -21035,7 +21028,6 @@ deadman
 deadmen
 deadpay
 deadpan
-deads
 deaf
 deafen
 deafens
@@ -25380,7 +25372,6 @@ eggs
 egilops
 egypt
 egipto
-egis
 egises
 egling
 eglogue
@@ -26350,7 +26341,6 @@ engreen
 engrege
 engrid
 engross
-engs
 enguard
 engulf
 engulfs
@@ -28079,7 +28069,6 @@ fain
 fainant
 fainer
 fainest
-fainly
 fains
 faint
 fainted
@@ -28158,7 +28147,6 @@ fallals
 fallen
 faller
 fallers
-fally
 falling
 falloff
 fallout
@@ -29261,7 +29249,6 @@ filius
 filix
 fylker
 fill
-filla
 fille
 filled
 filler
@@ -29642,7 +29629,6 @@ flaying
 flail
 flailed
 flails
-flain
 flair
 flairs
 flays
@@ -32944,7 +32930,6 @@ gesan
 gesith
 gesling
 gesnera
-gesning
 gesso
 gessoes
 gestae
@@ -33133,7 +33118,6 @@ gye
 gieaway
 gieing
 gienah
-gies
 giesel
 gifola
 gift
@@ -33277,7 +33261,6 @@ gynecic
 gynecol
 ginep
 ginete
-ging
 gingal
 gingall
 gingals
@@ -33437,7 +33420,6 @@ gyrus
 gisant
 gisants
 gisarme
-gise
 gyse
 gisel
 gish
@@ -37233,7 +37215,6 @@ hester
 hestern
 hesther
 hestia
-hests
 hetaera
 hetaery
 hetaira
@@ -38387,7 +38368,6 @@ hosing
 hosp
 hospice
 hospita
-hoss
 host
 hosta
 hostage
@@ -38416,7 +38396,6 @@ hotched
 hotches
 hotdog
 hotdogs
-hote
 hotel
 hotels
 hotfoot
@@ -38544,7 +38523,6 @@ huastec
 huave
 huavean
 hub
-hubb
 hubba
 hubbed
 hubber
@@ -40251,7 +40229,6 @@ infix
 infixal
 infixed
 infixes
-infl
 inflame
 inflate
 inflect
@@ -46690,7 +46667,6 @@ likings
 likker
 liknon
 likuta
-lila
 lilac
 lilacin
 lilacky
@@ -53233,7 +53209,6 @@ naiant
 nayarit
 naias
 naib
-naifly
 naifs
 naigie
 naigue
@@ -53244,7 +53219,6 @@ nailed
 nailer
 nailery
 nailers
-naily
 nailing
 nailrod
 nails
@@ -53971,7 +53945,6 @@ nyaya
 niais
 nyala
 nyalas
-niall
 nyanja
 niantic
 nyanza
@@ -56465,7 +56438,6 @@ ossein
 osseins
 osselet
 osseous
-osset
 osseter
 ossetic
 ossia
@@ -64724,7 +64696,6 @@ rasbora
 rascal
 rascals
 rasceta
-rased
 rasen
 rasenna
 raser
@@ -65388,7 +65359,6 @@ reddle
 reddled
 reddles
 reddock
-redds
 redeal
 redealt
 redear
@@ -67038,7 +67008,6 @@ ribble
 ribbon
 ribbony
 ribbons
-ribhus
 ribibe
 ribless
 riblet
@@ -70647,7 +70616,6 @@ seggrom
 seghol
 seginus
 segment
-segni
 segno
 segnos
 segou
@@ -70860,7 +70828,6 @@ senegas
 senegin
 senesce
 senex
-sengi
 senhor
 senhora
 senhors
@@ -71704,7 +71671,6 @@ sherpas
 sherri
 sherry
 sherris
-shes
 shesha
 sheth
 sheuch
@@ -72021,8 +71987,6 @@ shortly
 shorts
 shortzy
 shot
-shote
-shotes
 shotgun
 shotman
 shots
@@ -72211,7 +72175,6 @@ siam
 siamang
 siamese
 sib
-sibb
 sibbed
 sibbens
 sibber
@@ -74852,7 +74815,6 @@ sorts
 sorus
 sorva
 sos
-sosh
 soshed
 sosia
 sosie
@@ -74860,7 +74822,6 @@ sosoish
 sospiro
 sospita
 sosquil
-soss
 sossle
 sot
 sotadic
@@ -74869,14 +74830,12 @@ sothiac
 sothic
 sothis
 sotho
-soths
 sotie
 sotik
 sotnia
 sotnik
 sotol
 sotols
-sots
 sottage
 sotted
 sotter
@@ -76762,8 +76721,6 @@ stormed
 stormer
 stormy
 storms
-stosh
-stoss
 stoter
 stoting
 stott
@@ -80214,7 +80171,6 @@ thenars
 thence
 thenne
 thens
-theo
 theody
 theol
 theolog
@@ -80225,7 +80181,6 @@ theory
 theoria
 theoric
 theorum
-theos
 theow
 therap
 therapy
@@ -81911,7 +81866,6 @@ torvous
 tosca
 tosher
 toshery
-toshes
 toshy
 toshly
 tosy
@@ -83703,7 +83657,6 @@ ubangi
 uberant
 uberous
 uberty
-ubi
 ubiety
 ubii
 ubique
@@ -86029,7 +85982,6 @@ urbaner
 urbian
 urbic
 urbify
-urbs
 urceole
 urceoli
 urceus
