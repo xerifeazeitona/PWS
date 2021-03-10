@@ -18391,7 +18391,6 @@ core
 corebel
 corebox
 cored
-coree
 coreid
 coreign
 corella
@@ -18562,12 +18561,10 @@ corton
 coruco
 coruler
 corupay
-corve
 corved
 corvee
 corvees
 corven
-corver
 corves
 corvet
 corvets
@@ -27529,7 +27526,6 @@ evites
 eviting
 evocate
 evodia
-evoe
 evoke
 evoked
 evoker
@@ -54855,7 +54851,6 @@ numida
 numidae
 numina
 numine
-numis
 nummary
 nummi
 nummus
@@ -66693,7 +66688,6 @@ revend
 revenge
 revent
 revenue
-rever
 reverb
 reverbs
 reverdi
@@ -86870,7 +86864,6 @@ verona
 veronal
 verpa
 verray
-verre
 verrel
 verrell
 verry
@@ -87471,7 +87464,6 @@ vocally
 vocals
 vocat
 vocate
-voce
 voces
 vocoder
 vocoid
