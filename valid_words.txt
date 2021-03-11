@@ -4789,8 +4789,6 @@ aromal
 aromas
 aromata
 aronia
-aroon
-aroph
 aroras
 arose
 around
@@ -7973,7 +7971,6 @@ bedrape
 bedread
 bedrel
 bedress
-bedrid
 bedrift
 bedrip
 bedrite
@@ -22837,7 +22834,6 @@ dipware
 diquat
 diquats
 dirca
-dird
 dirdum
 dirdums
 dire
@@ -26240,7 +26236,6 @@ enfield
 enfile
 enfiled
 enfin
-enfire
 enfirm
 enflame
 enflesh
@@ -26965,7 +26960,6 @@ erminee
 ermines
 ernesse
 ernest
-ernie
 ernst
 erode
 eroded
@@ -28797,10 +28791,8 @@ ferial
 ferias
 feridgi
 feridji
-ferie
 ferigee
 ferijee
-ferine
 feringi
 ferio
 ferison
@@ -29294,7 +29286,6 @@ findon
 finds
 fine
 fined
-fineer
 fineish
 finely
 finer
@@ -36188,7 +36179,6 @@ hanks
 hankt
 hankul
 hanna
-hano
 hanoi
 hanover
 hansa
@@ -38062,7 +38052,6 @@ homonid
 homonym
 homos
 homrai
-hon
 honan
 honans
 honcho
@@ -38099,7 +38088,6 @@ honkies
 honking
 honks
 honor
-honora
 honored
 honoree
 honorer
@@ -38171,7 +38159,6 @@ hooly
 hoolie
 hoolock
 hoom
-hoon
 hoondee
 hoondi
 hoop
@@ -39417,7 +39404,6 @@ yerga
 yerked
 yerking
 yerks
-ierne
 yerth
 yerva
 yes
@@ -39463,7 +39449,6 @@ iffy
 iffier
 ifint
 ifreal
-ifree
 ifrit
 ifugao
 ygapo
@@ -40216,7 +40201,6 @@ informs
 infound
 infra
 infract
-infree
 infula
 infulae
 infume
@@ -40951,7 +40935,6 @@ ireful
 ireland
 ireless
 irena
-irene
 irenic
 irenica
 irenics
@@ -53151,8 +53134,6 @@ nagual
 nah
 nahane
 nahani
-nahoor
-nahor
 nahua
 nahuan
 nahuatl
@@ -53299,8 +53280,6 @@ napkin
 napkins
 naples
 napless
-napoo
-napooh
 nappa
 nappe
 napped
@@ -54340,7 +54319,6 @@ nogging
 noggins
 noggs
 noghead
-noh
 nohex
 nohow
 noyade
@@ -54512,7 +54490,6 @@ nooned
 nooning
 noonish
 noonlit
-noop
 noose
 noosed
 noosers
@@ -55897,7 +55874,6 @@ opacite
 opacity
 opacous
 opacus
-opah
 opahs
 opai
 opaion
@@ -56058,7 +56034,6 @@ orans
 orant
 orante
 orantes
-oraon
 orary
 oraria
 orarian
@@ -57450,7 +57425,6 @@ pahi
 pahlavi
 pahlevi
 pahmi
-paho
 pahos
 pahouin
 pahutan
@@ -57894,7 +57868,6 @@ panzer
 panzers
 paola
 paolo
-paon
 paopao
 pap
 papa
@@ -59464,18 +59437,15 @@ phallus
 phanar
 phane
 phanic
-phano
 phanos
 phantic
 phantom
-phar
 pharaoh
 phare
 pharian
 pharynx
 pharm
 pharmic
-pharo
 pharos
 phascum
 phase
@@ -59602,7 +59572,6 @@ phlorol
 phlox
 phloxes
 phloxin
-pho
 phoby
 phobia
 phobiac
@@ -59630,7 +59599,6 @@ pholcid
 pholcus
 pholido
 phoma
-phon
 phonal
 phonate
 phone
@@ -59650,16 +59618,13 @@ phonies
 phonily
 phoning
 phonism
-phono
 phonol
 phonon
 phonons
 phonos
 phons
-phoo
 phooey
 phooka
-phora
 phorate
 phorbin
 phoresy
@@ -61132,7 +61097,6 @@ pneum
 pneuma
 pneumas
 pneume
-poa
 poaceae
 poach
 poached
@@ -61254,9 +61218,6 @@ pogonia
 pogonip
 pogrom
 pogroms
-poh
-poha
-pohna
 poiana
 poybird
 poiesis
@@ -61575,7 +61536,6 @@ pontoon
 pontus
 ponzite
 poo
-pooa
 pooch
 pooches
 pood
@@ -61587,7 +61547,6 @@ poods
 poof
 pooftah
 poogye
-pooh
 poohed
 poohing
 poohs
@@ -61606,7 +61565,6 @@ pooling
 pools
 poon
 poonac
-poonah
 poonce
 poonga
 poongee
@@ -62649,7 +62607,6 @@ promove
 prompt
 prompts
 proms
-pron
 pronaoi
 pronaos
 pronate
@@ -67532,7 +67489,6 @@ roguery
 rogues
 roguing
 roguish
-rohan
 rohilla
 rohob
 rohun
