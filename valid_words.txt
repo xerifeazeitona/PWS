@@ -4412,7 +4412,6 @@ arch
 archae
 archai
 archaic
-archd
 arche
 archeal
 archean
@@ -13903,7 +13902,6 @@ carding
 cardiod
 cardita
 cardium
-cardo
 cardol
 cardon
 cardona
@@ -15211,12 +15209,10 @@ charpit
 charpoy
 charque
 charqui
-charr
 charras
 charre
 charred
 charry
-charro
 charros
 charrs
 chars
@@ -15916,7 +15912,6 @@ choral
 chorale
 chorals
 chord
-chorda
 chordal
 chorded
 chordee
@@ -24003,7 +23998,6 @@ drachma
 drachms
 dracin
 dracma
-draco
 dracone
 dradge
 draff
@@ -24099,7 +24093,6 @@ drawout
 drawrod
 draws
 drazel
-drch
 dread
 dreaded
 dreader
@@ -24240,7 +24233,6 @@ drogher
 drogue
 drogues
 droguet
-droh
 droich
 droil
 droyl
@@ -66902,7 +66894,6 @@ rhizopi
 rhizota
 rhizote
 rho
-rhoda
 rhodes
 rhodian
 rhodic
