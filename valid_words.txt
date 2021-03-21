@@ -3919,7 +3919,6 @@ apathic
 apathus
 apatite
 ape
-apeak
 aped
 apedom
 apeek
@@ -13575,7 +13574,6 @@ canzos
 caoba
 caoine
 cap
-capa
 capable
 capably
 capanna
@@ -14649,7 +14647,6 @@ centum
 centums
 centure
 century
-cepa
 cepe
 cepes
 cephala
@@ -31916,7 +31913,6 @@ gaols
 gaonate
 gaonic
 gap
-gapa
 gape
 gaped
 gaper
@@ -32285,7 +32281,6 @@ gebang
 gebanga
 gebbie
 gebur
-geck
 gecked
 gecking
 gecko
@@ -42884,7 +42879,6 @@ kazoos
 kcal
 keach
 keacorn
-keap
 kearn
 keat
 keats
@@ -56821,8 +56815,6 @@ pablum
 pabouch
 pabular
 pabulum
-pac
-paca
 pacable
 pacay
 pacaya
@@ -56940,7 +56932,6 @@ paeonin
 paeons
 paepae
 paesano
-paga
 pagador
 pagan
 paganic
@@ -58134,7 +58125,6 @@ peacoat
 peacock
 peacod
 peafowl
-peag
 peage
 peages
 peags
@@ -58357,7 +58347,6 @@ peewees
 peewit
 peewits
 peg
-pega
 pegador
 pegall
 peganum
@@ -60180,10 +60169,6 @@ pizzas
 pizzazz
 pizzle
 pizzles
-pkg
-pkgs
-pkt
-pkwy
 placage
 placard
 placate
