@@ -1,1 +1,3 @@
 .vscode/
+__pycache__/
+url_list.txt
