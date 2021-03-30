@@ -2,7 +2,7 @@
 """
 Python WS Solver (PWS) - Clipboard Edition
 Simple attempt to model an anagram solver for WS
-The only difference between this version and the original is that this 
+The only difference between this version and the original is that this
 one takes the letters from the clipboard instead of the command line
 arguments
 """
@@ -27,6 +27,10 @@ def create_dictionary(allow_3_letters=True):
     return dic
 
 def return_anagrams(dictionary, letters: str) -> list:
+    """
+    Returns a list of 'dictionary' words that can be created with the
+    'letters' provided
+    """
     #lowercasing the input letters
     letters = letters.lower()
     letters_count = Counter(letters)

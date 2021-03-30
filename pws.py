@@ -10,7 +10,7 @@ import sys
 FILENAME = 'valid_words.txt'
 
 def create_dictionary(allow_3_letters=True):
-    """Read from words.txt and create a dictionary."""
+    """Read from FILENAME and create a dictionary."""
     if allow_3_letters:
         min_letters = 3
     else:
@@ -23,6 +23,10 @@ def create_dictionary(allow_3_letters=True):
     return dic
 
 def return_anagrams(dictionary, letters: str) -> list:
+    """
+    Returns a list of 'dictionary' words that can be created with the
+    'letters' provided
+    """
     #lowercasing the input letters
     letters = letters.lower()
     letters_count = Counter(letters)
