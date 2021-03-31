@@ -1997,7 +1997,6 @@ alantic
 alantin
 alantol
 alants
-alap
 alapa
 alar
 alarbus
@@ -5987,8 +5986,6 @@ aweary
 aweband
 awed
 awedly
-awee
-aweek
 aweel
 aweigh
 aweing
@@ -10192,7 +10189,6 @@ bochur
 bockey
 bocking
 bocks
-bocoy
 bod
 bodach
 boddagh
@@ -10889,7 +10885,6 @@ botonn
 botonny
 botry
 bots
-bott
 botte
 bottega
 bottier
@@ -14596,7 +14591,6 @@ centrer
 centres
 centrev
 centrex
-centry
 centric
 centro
 centrum
@@ -14682,7 +14676,6 @@ cerris
 certain
 certes
 certhia
-certy
 certie
 certif
 certify
@@ -16179,7 +16172,6 @@ cipolin
 cippi
 cippus
 cypraea
-cypre
 cypres
 cypress
 cypria
@@ -18011,7 +18003,6 @@ cootch
 cooter
 cooth
 coothay
-cooty
 cootie
 cooties
 coots
@@ -18472,7 +18463,6 @@ cotte
 cotted
 cotter
 cotters
-cotty
 cottid
 cottier
 cottise
@@ -19018,7 +19008,6 @@ crepe
 creped
 crepey
 crepes
-crepy
 crepier
 crepine
 creping
@@ -21757,7 +21746,6 @@ detruss
 dette
 detune
 detuned
-detur
 deturb
 deturn
 deuce
@@ -22188,7 +22176,6 @@ dyeings
 dielec
 dielike
 dyeline
-diener
 dienes
 dyers
 dies
@@ -24482,7 +24469,6 @@ dureful
 durenol
 dures
 duress
-duret
 duretto
 durezza
 durgah
@@ -42734,7 +42720,6 @@ keach
 keacorn
 kearn
 keats
-keawe
 kebab
 kebabs
 kebars
@@ -42975,7 +42960,6 @@ kerchug
 kerel
 keres
 keresan
-kerewa
 kerf
 kerfed
 kerfing
@@ -48147,7 +48131,6 @@ malakin
 malakon
 malambo
 malanga
-malapi
 malar
 malaria
 malarin
@@ -50214,7 +50197,6 @@ milor
 milord
 milords
 milos
-milpa
 milpas
 milreis
 milrind
@@ -53066,7 +53048,6 @@ nepotic
 neptune
 nerd
 nerds
-nereid
 nereids
 nereis
 nereite
@@ -55811,7 +55792,6 @@ otter
 otterer
 otters
 ottetto
-otto
 ottoman
 ottos
 ottroye
@@ -56601,7 +56581,6 @@ ozonous
 ozophen
 ozotype
 ozs
-paal
 paas
 paauw
 paba
@@ -56866,7 +56845,6 @@ pakeha
 pakhtun
 paktong
 pal
-pala
 palabra
 palace
 palaced
@@ -56966,7 +56944,6 @@ pallors
 palls
 pallu
 palm
-palma
 palmad
 palmae
 palmar
@@ -57023,7 +57000,6 @@ palule
 paluli
 palulus
 palus
-pam
 pamela
 pament
 pamhy
@@ -58468,7 +58444,6 @@ perche
 perched
 percher
 perches
-percy
 percipi
 percoct
 percoid
@@ -58595,7 +58570,6 @@ pert
 pertain
 perter
 pertest
-perty
 pertish
 pertly
 perturb
@@ -59018,7 +58992,6 @@ piaffed
 piaffer
 piaffes
 pyal
-piala
 pialyn
 pyalla
 pianet
@@ -59423,7 +59396,6 @@ pilules
 pilum
 pilus
 pilusli
-pima
 piman
 pimaric
 pimas
@@ -65973,8 +65945,6 @@ revving
 rewade
 rewager
 rewayle
-rewake
-rewaked
 rewaken
 rewakes
 rewall
@@ -66253,7 +66223,6 @@ riddler
 riddles
 ride
 rideau
-riden
 rident
 rider
 ryder
@@ -66411,7 +66380,6 @@ rinaldo
 rinceau
 rincon
 rind
-rinde
 rinded
 rindy
 rindle
@@ -80015,7 +79983,6 @@ typed
 typees
 typey
 typeout
-typer
 types
 typeset
 typesof
@@ -80269,9 +80236,6 @@ toasts
 toatoa
 toba
 tobacco
-toby
-tobiah
-tobias
 tobies
 tobyman
 tobymen
@@ -80379,7 +80343,6 @@ toilful
 toylike
 toiling
 toils
-toyo
 toyon
 toyons
 toyos
@@ -80891,7 +80854,6 @@ tother
 totient
 totyman
 toting
-toto
 totoaba
 totonac
 totora
@@ -81799,7 +81761,6 @@ trudger
 trudges
 trudy
 true
-trued
 trueing
 trueman
 truer
