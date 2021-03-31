@@ -12,7 +12,7 @@ from collections import Counter
 import sys
 import shelve
 
-FILENAME = 'valid_words.txt'
+FILENAME = 'curated_words.txt'
 
 def create_dictionary(allow_3_letters=True):
     """Read from FILENAME and create a dictionary."""
@@ -54,7 +54,7 @@ def read_level_data():
     for key, value in shelf_file.items():
         data_dic[key] = value
     shelf_file.close()
-    return data_dic
+    return dict(sorted(data_dic.items(), key=lambda item: int(item[0])))
 
 def validate_input():
     """Only valid argument is the level and it has to be in the master range"""
@@ -78,8 +78,7 @@ if __name__ == "__main__":
     level = validate_input()
 
     # Create letters dictionary
-    letters_dic = dict(sorted(
-        read_level_data().items(), key=lambda item: int(item[0])))
+    letters_dic = read_level_data()
 
     # Create words dictionary
     words_dic = create_dictionary()
@@ -89,12 +88,11 @@ if __name__ == "__main__":
         test_anagrams = return_anagrams(words_dic, letters_dic[str(level)])
 
         # display valid words + total
-        print(f'Words for level {level}:')
-        for word in test_anagrams:
-            print(word.upper())
-        print(f"Number of anagrams: {len(test_anagrams)}")
+        print(f'\nFound {len(test_anagrams)} words for level {level}:')
+        for valid_word in test_anagrams:
+            print(valid_word.upper())
 
         # prompts for next level
-        if input('Proceed to next level? [Y/n] ').lower() == 'n':
+        if input('\nProceed to next level? [Y/n] ').lower() == 'n':
             sys.exit()
         level += 1
