@@ -83,13 +83,14 @@ if __name__ == "__main__":
     # Create words dictionary
     words_dic = create_dictionary()
 
+    # Main loop
     while True:
         # Get valid words for the level
-        test_anagrams = return_anagrams(words_dic, letters_dic[str(level)])
+        word_list = return_anagrams(words_dic, letters_dic[str(level)])
 
         # display valid words + total
-        print(f'\nFound {len(test_anagrams)} words for level {level}:')
-        for valid_word in test_anagrams:
+        print(f'\nFound {len(word_list)} words for level {level}:')
+        for valid_word in word_list:
             print(valid_word.upper())
 
         # prompts for next level
