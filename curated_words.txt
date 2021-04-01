@@ -21895,7 +21895,6 @@ dhaura
 dhauri
 dhava
 dheneb
-dheri
 dhyal
 dhyana
 dhikr
@@ -26637,8 +26636,6 @@ ermined
 erminee
 ermines
 ernesse
-ernest
-ernst
 erode
 eroded
 erodent
@@ -26837,7 +26834,6 @@ estats
 esteem
 esteems
 estella
-ester
 esteros
 esters
 estevin
@@ -26857,7 +26853,6 @@ estrado
 estray
 estrays
 estral
-estre
 estreat
 estrepe
 estrich
@@ -53063,7 +53058,6 @@ neroli
 nerolis
 nerols
 neronic
-nerts
 nertz
 nerval
 nervate
@@ -64684,7 +64678,6 @@ reeshie
 reeshle
 reesk
 reesle
-reest
 reested
 reester
 reesty
@@ -64939,7 +64932,6 @@ reheels
 rehem
 rehems
 rehete
-rehid
 rehide
 rehinge
 rehire
@@ -65276,7 +65268,6 @@ rentals
 rented
 renter
 renters
-rentes
 rentier
 renting
 rentree
@@ -75266,7 +75257,6 @@ steeler
 steely
 steelie
 steels
-steen
 steenie
 steenth
 steep
@@ -75320,7 +75310,6 @@ stempel
 stemple
 stems
 stemson
-sten
 stenar
 stench
 stenchy
@@ -75355,7 +75344,6 @@ stepup
 stepups
 stepway
 sterad
-stere
 stereid
 stereo
 stereom
@@ -75850,11 +75838,9 @@ stream
 streamy
 streams
 streck
-stree
 streek
 streeks
 streel
-streen
 streep
 street
 streets
@@ -78801,7 +78787,6 @@ teredos
 terefah
 terek
 terence
-teres
 teresa
 terete
 tereus
@@ -78837,7 +78822,6 @@ ternal
 ternar
 ternary
 ternate
-ternes
 terning
 ternion
 ternize
@@ -81832,7 +81816,6 @@ tsarism
 tsarist
 tsars
 tsatlee
-tsere
 tsetse
 tsetses
 tsimmes
