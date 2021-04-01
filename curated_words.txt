@@ -1396,11 +1396,9 @@ aftward
 afzelia
 agacant
 agaces
-agad
 agada
 agade
 agadic
-agag
 again
 against
 agalaxy
@@ -1607,7 +1605,6 @@ agrace
 agrafe
 agrafes
 agraffe
-agrah
 agral
 agramed
 agrania
@@ -1677,7 +1674,6 @@ ahey
 aheight
 ahem
 ahems
-ahet
 ahimsa
 ahimsas
 ahind
@@ -2184,7 +2180,6 @@ aletap
 alethea
 alethic
 aletris
-alette
 aleuron
 aleut
 aleutic
@@ -2270,7 +2265,6 @@ algums
 alhagi
 alhena
 alhenna
-alhet
 alya
 alias
 aliased
@@ -4505,7 +4499,6 @@ argema
 argenol
 argent
 argents
-argh
 arghan
 arghel
 arghool
@@ -5380,7 +5373,6 @@ athecae
 atheism
 atheist
 atheize
-athel
 athelia
 athena
 athenee
@@ -5426,7 +5418,6 @@ atlas
 atlases
 atlatl
 atlatls
-atlee
 atloid
 atman
 atmans
@@ -20167,8 +20158,6 @@ dagame
 dagassa
 dagbane
 dagesh
-dagga
-daggar
 dagged
 dagger
 daggers
@@ -20501,8 +20490,6 @@ darer
 darers
 dares
 daresay
-darg
-dargah
 darger
 darghin
 dargo
@@ -24706,7 +24693,6 @@ eaten
 eater
 eatery
 eaters
-eath
 eathly
 eating
 eatings
@@ -25220,7 +25206,6 @@ elapses
 elastic
 elastin
 elatcha
-elate
 elated
 elater
 elatery
@@ -26897,14 +26882,11 @@ etches
 etching
 eternal
 etesian
-ethal
-ethan
 ethanal
 ethane
 ethanes
 ethanim
 ethanol
-ethel
 ethene
 ethenes
 ethenic
@@ -31817,7 +31799,6 @@ gappier
 gapping
 gaps
 gar
-garad
 garage
 garaged
 garages
@@ -31843,7 +31824,6 @@ garbure
 garce
 garcon
 garcons
-gard
 gardant
 garde
 gardeen
@@ -31857,7 +31837,6 @@ gareh
 gareth
 garetta
 garfish
-garg
 garget
 gargety
 gargets
@@ -32549,7 +32528,6 @@ gewgawy
 gewgaws
 gez
 gezerah
-ggr
 ghaffir
 ghafir
 ghain
@@ -35315,7 +35293,6 @@ haemoid
 haemony
 haems
 haeres
-haet
 haets
 haf
 haff
@@ -35342,7 +35319,6 @@ hag
 hagada
 hagadic
 haganah
-hagar
 hagboat
 hagbolt
 hagborn
@@ -35609,7 +35585,6 @@ halse
 halsen
 halser
 halt
-halte
 halted
 halter
 haltere
@@ -36025,7 +36000,6 @@ hatchet
 hate
 hated
 hateful
-hatel
 hater
 haters
 hates
@@ -36045,7 +36019,6 @@ hatreds
 hatress
 hats
 hatsful
-hatte
 hatted
 hatter
 hattery
@@ -42667,7 +42640,6 @@ katana
 katar
 katat
 katcina
-kate
 kath
 katha
 kathak
@@ -45025,7 +44997,6 @@ lath
 latham
 lathe
 lathed
-lathee
 lathen
 lather
 lathery
@@ -45323,7 +45294,6 @@ leasing
 leasow
 least
 leasts
-leath
 leather
 leatman
 leatmen
@@ -45691,7 +45661,6 @@ letdown
 letgame
 lethal
 lethals
-lethe
 lethean
 lethes
 lethy
@@ -78365,7 +78334,6 @@ teasle
 teasler
 teat
 teated
-teathe
 teather
 teaty
 teatime
@@ -78500,7 +78468,6 @@ tekken
 tektite
 tektos
 tektosi
-telae
 telamon
 telang
 telar
@@ -78993,7 +78960,6 @@ thacked
 thacker
 thacks
 thad
-thae
 thairm
 thairms
 thais
@@ -79053,10 +79019,8 @@ thawing
 thawn
 thaws
 the
-thea
 theah
 theasum
-theat
 theater
 theatre
 theatry
