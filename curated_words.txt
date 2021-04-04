@@ -17217,7 +17217,6 @@ cohead
 coheads
 coheir
 coheirs
-cohen
 cohens
 cohere
 cohered
@@ -26030,7 +26029,6 @@ ennuye
 ennuied
 ennuyee
 ennuis
-enoch
 enochic
 enocyte
 enodal
@@ -53510,7 +53508,6 @@ nobut
 nocake
 nocence
 nocent
-nocht
 nocive
 nock
 nocked
@@ -78285,6 +78282,7 @@ techily
 techne
 technic
 technol
+techno
 techous
 tecla
 tecoma
@@ -78515,7 +78513,6 @@ tenaim
 tenancy
 tenant
 tenants
-tench
 tenches
 tend
 tendant
@@ -79219,7 +79216,6 @@ thomism
 thomist
 thomite
 thonder
-thone
 thong
 thonga
 thonged
