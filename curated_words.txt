@@ -12,13 +12,11 @@ aarrgh
 aarrghh
 ababdeh
 ababua
-abac
 abaca
 abacay
 abacas
 abacate
 abacaxi
-abaci
 abacist
 aback
 abacli
@@ -710,7 +708,6 @@ acquire
 acquist
 acquit
 acquits
-acrab
 acracy
 acraein
 acrania
@@ -3554,7 +3551,6 @@ anklong
 anklung
 ankoli
 ankou
-ankus
 ankuses
 ankush
 ankusha
@@ -5647,7 +5643,6 @@ auguste
 augusti
 auklet
 auklets
-auks
 auksinu
 aulae
 aulas
@@ -7075,7 +7070,6 @@ bargir
 barhal
 barhop
 barhops
-baria
 baric
 barid
 baryes
@@ -7894,7 +7888,6 @@ bedull
 bedumb
 bedumbs
 bedunce
-bedunch
 bedung
 bedusk
 bedust
@@ -8131,7 +8124,6 @@ behymn
 behind
 behinds
 behint
-behn
 behold
 beholds
 behoney
@@ -8966,7 +8958,6 @@ bhat
 bhava
 bhavan
 bhavani
-bhd
 bheesty
 bhikku
 bhikshu
@@ -11114,7 +11105,6 @@ braata
 brab
 brabant
 brabble
-braca
 bracae
 braccae
 braccia
@@ -11918,7 +11908,6 @@ budgy
 budgie
 budgies
 budging
-budh
 budless
 budlet
 budlike
@@ -12177,7 +12166,6 @@ bumtrap
 bumwood
 bun
 buncal
-bunce
 bunch
 bunched
 buncher
@@ -12190,7 +12178,6 @@ bund
 bunda
 bundeli
 bunder
-bundh
 bundy
 bundies
 bundist
@@ -12638,7 +12625,6 @@ caama
 caaming
 caapeba
 cab
-caba
 cabaa
 cabaan
 caback
@@ -13259,7 +13245,6 @@ campagi
 campal
 campana
 campane
-campe
 camped
 camper
 campers
@@ -13383,7 +13368,6 @@ canfuls
 cangan
 cangy
 cangia
-cangle
 cangler
 cangue
 cangues
@@ -13770,7 +13754,6 @@ carhops
 carya
 cariama
 carian
-carib
 caribal
 cariban
 caribe
@@ -19673,7 +19656,6 @@ cumuli
 cumulus
 cunan
 cunas
-cund
 cundy
 cundite
 cundum
@@ -20891,7 +20873,6 @@ decani
 decanol
 decant
 decants
-decap
 decapod
 decarch
 decard
@@ -21619,7 +21600,6 @@ deseret
 desert
 deserts
 deserve
-desex
 desexed
 desexes
 desight
@@ -21743,7 +21723,6 @@ deunam
 deusan
 deuton
 deutzia
-deux
 deuzan
 dev
 deval
@@ -21848,7 +21827,6 @@ dewrot
 dews
 dewtry
 dewworm
-dexes
 dexies
 dexter
 dextrad
@@ -24110,7 +24088,6 @@ dubby
 dubbin
 dubbing
 dubbins
-dubhe
 dubiety
 dubio
 dubious
@@ -24334,7 +24311,6 @@ duncan
 dunce
 duncery
 dunces
-dunch
 dunches
 dunciad
 duncify
@@ -24544,8 +24520,6 @@ dutra
 duumvir
 duvet
 duvetyn
-dux
-duxes
 dvaita
 dvandva
 dvigu
@@ -24912,7 +24886,6 @@ edplot
 educand
 educate
 educed
-educes
 educing
 educive
 eductor
@@ -25309,7 +25282,6 @@ eliding
 eligent
 elihu
 elijah
-elymi
 elymus
 elinor
 elinvar
@@ -25964,7 +25936,6 @@ engore
 engorge
 engoue
 engouee
-engr
 engrace
 engraff
 engraft
@@ -26680,7 +26651,6 @@ erupt
 erupted
 erupts
 ervum
-erwin
 erwinia
 esbay
 escalan
@@ -27254,7 +27224,6 @@ exclude
 excoct
 excreta
 excrete
-excud
 excudit
 excur
 excurse
@@ -27426,7 +27395,6 @@ exradio
 exrx
 exscind
 exsculp
-exsec
 exsect
 exsects
 exsert
@@ -32949,7 +32917,6 @@ gyrose
 gyrosyn
 girosol
 gyrous
-girr
 girrit
 girrock
 girse
@@ -34290,7 +34257,7 @@ greying
 greyish
 greylag
 greyly
-grein
+
 greing
 greys
 greisen
@@ -37088,7 +37055,6 @@ hyoidan
 hyoides
 hyoids
 hip
-hyp
 hypate
 hypaton
 hipbone
@@ -37165,7 +37131,6 @@ hips
 hyps
 hipshot
 hipster
-hypt
 hypural
 hipwort
 hirable
@@ -37259,9 +37224,6 @@ hivite
 hyzone
 hizz
 hizzie
-hler
-hlqn
-hny
 hoagy
 hoagie
 hoagies
@@ -39026,7 +38988,6 @@ yippies
 yipping
 yips
 yirds
-yirn
 yirr
 yirred
 yirring
@@ -39713,7 +39674,6 @@ ingenio
 ingenit
 ingent
 ingenue
-inger
 ingest
 ingesta
 ingests
@@ -40313,8 +40273,6 @@ ionone
 ionones
 ions
 yonside
-yook
-yoop
 yore
 york
 yorker
@@ -40490,7 +40448,6 @@ irons
 irous
 irrate
 irreal
-irreg
 irride
 irrisor
 irrite
@@ -42631,7 +42588,6 @@ kashrut
 kashube
 kasida
 kaska
-kasm
 kassak
 kassite
 kassu
@@ -43935,7 +43891,6 @@ koppie
 koppies
 koppite
 koprino
-kops
 kora
 koradji
 korah
@@ -43970,7 +43925,6 @@ korunas
 koruny
 korwa
 korzec
-kos
 kosalan
 koschei
 kosha
@@ -43979,7 +43933,6 @@ kosher
 koshers
 kosimo
 kosin
-koso
 kosong
 kosos
 koss
@@ -44096,7 +44049,6 @@ krubuts
 kruller
 kruman
 kthibh
-kuan
 kuar
 kubachi
 kubanka
@@ -44147,7 +44099,6 @@ kulm
 kulmet
 kultur
 kulturs
-kuman
 kumara
 kumari
 kumbi
@@ -44200,9 +44151,6 @@ kurumba
 kurung
 kurus
 kurvey
-kusa
-kusam
-kusan
 kusha
 kushshu
 kuskite
@@ -48072,7 +48020,6 @@ makopa
 makos
 makoua
 makran
-maku
 makua
 makuk
 makuta
@@ -48420,12 +48367,10 @@ manjak
 manjeet
 manjel
 manjeri
-mank
 manky
 mankie
 mankin
 mankind
-manks
 manless
 manlet
 manly
@@ -50170,7 +50115,6 @@ milsie
 milted
 milter
 milters
-milty
 miltier
 milting
 milton
@@ -52760,7 +52704,6 @@ naughty
 naughts
 naukrar
 naulage
-naumk
 naunt
 nauntle
 nauplii
@@ -53345,7 +53288,6 @@ nights
 nignay
 nignye
 nigori
-nigre
 nigrify
 nigrine
 nigrous
@@ -55270,7 +55212,6 @@ oppress
 oppugn
 oppugns
 ops
-opsy
 opsins
 opsonia
 opsonic
@@ -58821,7 +58762,6 @@ phytoid
 phytol
 phytoma
 phytome
-phyton
 phytons
 phiz
 phizes
@@ -58904,7 +58844,6 @@ phosis
 phospho
 phoss
 phossy
-phot
 photal
 photic
 photics
@@ -59519,7 +59458,6 @@ pinones
 pinonic
 pinons
 pinot
-pynot
 pinrail
 pins
 pinson
@@ -60803,7 +60741,6 @@ poohed
 poohing
 poohs
 poojah
-pook
 pooka
 pookaun
 pookawn
@@ -61005,7 +60942,6 @@ posher
 poshest
 poshly
 posho
-posy
 posied
 posies
 posing
@@ -63208,7 +63144,6 @@ rabbler
 rabbles
 rabboni
 rabfak
-rabic
 rabid
 rabidly
 rabies
@@ -64816,7 +64751,6 @@ regilt
 regime
 regimen
 regimes
-regin
 regina
 reginae
 reginal
@@ -65412,7 +65346,6 @@ rereel
 rereeve
 rereign
 rerig
-rering
 rerise
 rerisen
 rerises
@@ -66346,7 +66279,6 @@ rindle
 rinds
 ring
 ringatu
-ringe
 ringed
 ringeye
 ringent
@@ -72313,7 +72245,6 @@ skoals
 skodaic
 skol
 skolly
-skoo
 skookum
 skoot
 skopets
@@ -72327,7 +72258,6 @@ skreigh
 skryer
 skrike
 skrupul
-skua
 skuas
 skulk
 skulked
@@ -72338,7 +72268,6 @@ skulled
 skully
 skulls
 skulp
-skun
 skunk
 skunked
 skunky
@@ -73426,12 +73355,10 @@ soys
 soja
 sojas
 sojourn
-sok
 sokeman
 sokemen
 soken
 sokes
-soko
 sokoki
 sokotri
 sokulk
@@ -73646,9 +73573,7 @@ soogee
 soogeed
 soohong
 soojee
-sook
 sooke
-sooky
 sookie
 sool
 sooloos
@@ -74550,7 +74475,6 @@ spoke
 spoked
 spoken
 spokes
-spoky
 spoking
 spolia
 spolium
@@ -76427,7 +76351,6 @@ suitors
 suits
 suivez
 suji
-suk
 sukey
 sukkah
 sukkahs
@@ -76504,7 +76427,6 @@ sumach
 sumachs
 sumacs
 sumage
-sumak
 sumass
 sumatra
 sumbal
@@ -79942,7 +79864,6 @@ typhia
 typhic
 typhlon
 typhoid
-typhon
 typhons
 typhoon
 typhose
@@ -80575,7 +80496,6 @@ topers
 topes
 topful
 topfull
-toph
 tophe
 tophes
 tophet
@@ -88391,13 +88311,11 @@ windups
 windway
 windz
 wine
-wyne
 wined
 winey
 wineier
 winemay
 winepot
-winer
 winery
 winers
 wines
@@ -88423,7 +88341,6 @@ wingman
 wingmen
 wings
 wingtip
-winy
 winier
 winiest
 wining
