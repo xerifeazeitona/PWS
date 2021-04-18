@@ -22614,7 +22614,6 @@ distoma
 distome
 dystome
 distort
-distr
 distrix
 distune
 disturb
@@ -22962,7 +22961,6 @@ doyst
 doit
 doited
 doitkin
-doits
 dojiggy
 dojo
 dojos
@@ -23217,7 +23215,6 @@ dories
 doryman
 dorymen
 dorine
-doris
 dorism
 dorize
 dorje
@@ -23253,13 +23250,11 @@ dorse
 dorsel
 dorser
 dorsers
-dorsi
 dorsula
 dorsum
 dorter
 dorty
 dortour
-dorts
 doruck
 dosadh
 dosage
@@ -23288,7 +23283,6 @@ dossils
 dossing
 dossman
 dossmen
-dost
 dot
 dotage
 dotages
@@ -23735,8 +23729,6 @@ droguet
 droich
 droil
 droyl
-droit
-droits
 drokpa
 droll
 drolled
@@ -54210,7 +54202,6 @@ odinist
 odinite
 odious
 odyssey
-odist
 odium
 odiums
 odling
@@ -75057,7 +75048,6 @@ stocked
 stocker
 stocky
 stocks
-stod
 stodge
 stodged
 stodger
@@ -75353,7 +75343,6 @@ striche
 strick
 stricks
 strict
-strid
 stride
 strider
 strides
@@ -79686,7 +79675,6 @@ todea
 tody
 todidae
 todies
-tods
 todus
 toe
 toecap
@@ -79776,7 +79764,6 @@ toyshop
 toising
 toysome
 toison
-toist
 toited
 toity
 toiting
@@ -80205,7 +80192,6 @@ tortes
 tortie
 tortil
 tortile
-tortis
 tortive
 tortoni
 tortor
