@@ -1525,7 +1525,6 @@ aglee
 agley
 aglet
 aglets
-agly
 aglycon
 aglint
 aglypha
@@ -1976,7 +1975,6 @@ alantin
 alantol
 alants
 alapa
-alar
 alarbus
 alares
 alarge
@@ -2221,7 +2219,6 @@ algesia
 algesic
 algesis
 algetic
-algy
 algieba
 algiers
 algific
@@ -2564,7 +2561,6 @@ alopias
 alosa
 aloud
 alout
-alow
 alowe
 aloxite
 alpaca
@@ -5952,8 +5948,6 @@ awnlike
 awns
 awoke
 awoken
-awol
-awols
 awonder
 awork
 aworry
@@ -8874,7 +8868,6 @@ bhara
 bharal
 bharata
 bharti
-bhat
 bhava
 bhavan
 bhavani
@@ -17884,7 +17877,6 @@ copyman
 coping
 copings
 copious
-copis
 copist
 copita
 coplot
@@ -19381,8 +19373,6 @@ cuyas
 cuidado
 cuiejo
 cuiejos
-cuif
-cuifs
 cuinage
 cuinfo
 cuing
@@ -19780,7 +19770,6 @@ cushily
 cushing
 cushion
 cushite
-cusie
 cusk
 cusks
 cusp
@@ -28419,7 +28408,6 @@ ficche
 fice
 fyce
 ficelle
-fices
 fyces
 fichat
 fiche
@@ -28802,7 +28790,6 @@ firstly
 firsts
 firth
 firths
-fisc
 fiscal
 fiscals
 fiscs
@@ -30650,7 +30637,6 @@ fucate
 fuchi
 fuchsia
 fuchsin
-fuci
 fuck
 fucked
 fucker
@@ -32327,7 +32313,6 @@ ghouls
 ghrush
 ghurry
 ghuz
-gyal
 giansar
 giant
 giantly
@@ -44153,7 +44138,6 @@ layers
 layette
 layfolk
 laighs
-layia
 laying
 layland
 layloc
@@ -45188,7 +45172,6 @@ lenders
 lending
 lends
 lendu
-lenes
 lenger
 lengest
 length
@@ -45204,7 +45187,6 @@ lennow
 lenora
 lenos
 lens
-lense
 lensed
 lenses
 lensman
@@ -46820,7 +46802,6 @@ lovier
 loviers
 loving
 low
-lowa
 lowable
 lowan
 lowance
@@ -52526,7 +52507,6 @@ neeger
 neem
 neemba
 neepour
-neeps
 neetup
 nefast
 neffy
@@ -53619,7 +53599,6 @@ nozi
 nozzle
 nozzler
 nozzles
-npeel
 nrarucu
 nritta
 nth
@@ -54515,7 +54494,6 @@ olivile
 olivine
 ollamh
 ollapod
-ollas
 ollock
 olluck
 olneya
@@ -57630,7 +57608,6 @@ peen
 peened
 peenge
 peening
-peens
 peeoy
 peep
 peeped
@@ -57832,7 +57809,6 @@ pendom
 pends
 pendule
 peneid
-penes
 penest
 penfold
 penful
@@ -57883,7 +57859,6 @@ penochi
 penoun
 penrack
 pens
-pense
 pensee
 pensees
 penship
@@ -58667,7 +58642,6 @@ picule
 piculet
 piculs
 picuris
-picus
 piddle
 piddled
 piddler
@@ -59316,7 +59290,6 @@ piscid
 piscina
 piscine
 piscis
-pisco
 pisgah
 pishaug
 pishes
@@ -67482,7 +67455,6 @@ salmis
 salmo
 salmon
 salmons
-salol
 salols
 salome
 salomon
@@ -69491,7 +69463,6 @@ sepiola
 sepion
 sepiost
 sepium
-sepn
 sepoy
 sepoys
 sepone
@@ -73464,7 +73435,6 @@ sowfoot
 sowing
 sowins
 sowish
-sowl
 sowle
 sowlike
 sowlth
@@ -73718,7 +73688,6 @@ speeds
 speedup
 speeled
 speels
-speen
 speered
 speight
 speil
@@ -73800,7 +73769,6 @@ sphyrna
 spy
 spial
 spyboat
-spic
 spica
 spicae
 spical
@@ -76378,7 +76346,6 @@ swaler
 swales
 swaling
 swallet
-swallo
 swallow
 swam
 swami
@@ -76644,7 +76611,6 @@ swotter
 swough
 swouned
 swouns
-swow
 swum
 swung
 swungen
@@ -78994,7 +78960,6 @@ tyburn
 tiburon
 tic
 ticals
-ticca
 ticchen
 tichel
 tychism
@@ -86309,7 +86274,6 @@ waldorf
 waler
 walers
 wales
-wali
 walies
 waling
 walk
@@ -86778,11 +86742,8 @@ wavily
 waving
 wavira
 wawah
-wawl
 wawled
 wawling
-wawls
-waws
 wax
 waxand
 waxbill
@@ -87929,7 +87890,6 @@ wiriest
 wirily
 wiring
 wirings
-wirl
 wirling
 wyrock
 wiros
